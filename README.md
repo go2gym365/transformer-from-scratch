@@ -45,5 +45,6 @@ transformer-from-scratch/
 ## Author
 
 **Jeonghwan Lee (이정환)**  
-Catholic University of Korea — AI Undergraduate & Research Intern  
-GitHub: [https://github.com/go2gym365](https://github.com/go2gym365)
+Catholic University of Korea — B.S. in Artificial Intelligence, Undergraduate Researcher
+
+GitHub: [go2gym365](https://github.com/go2gym365)
